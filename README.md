@@ -2,6 +2,7 @@
 
 Uma aplicação simples e funcional de **lista de tarefas** desenvolvida com **HTML, CSS e JavaScript**, com o objetivo de ajudar os usuários a se organizarem melhor no dia a dia.
 
+  <img src="https://github.com/mavtins/todolist/blob/main/img/todolist.rm.png?raw=true">
 
 ## 🔧 Tecnologias Utilizadas
 
